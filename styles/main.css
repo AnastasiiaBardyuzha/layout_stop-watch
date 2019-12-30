@@ -71,8 +71,8 @@ body {
     border: 1px solid #000;
     -webkit-transform-origin: 5px 80px;
             transform-origin: 5px 80px;
-    -webkit-animation: circle 4320s linear infinite;
-            animation: circle 4320s linear infinite; }
+    -webkit-animation: circle 43200s linear infinite;
+            animation: circle 43200s linear infinite; }
   .watch__minute-arrow {
     position: absolute;
     bottom: 50%;
